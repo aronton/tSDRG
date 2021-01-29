@@ -1,0 +1,169 @@
+Sun Jan 10 23:08:41 CST 2021
+arr done
+64_Jdis020_Dim000
+64_Jdis020_Dim005
+64_Jdis020_Dim010
+64_Jdis020_Dim015
+64_Jdis020_Dim020
+64_Jdis020_Dim025
+64_Jdis020_Dim030
+64_Jdis020_Dim035
+64_Jdis020_Dim040
+64_Jdis020_Dim045
+64_Jdis020_Dim050
+64_Jdis020_Dim055
+64_Jdis020_Dim060
+64_Jdis020_Dim065
+64_Jdis020_Dim070
+64_Jdis020_Dim075
+64_Jdis020_Dim080
+64_Jdis020_Dim085
+64_Jdis020_Dim090
+64_Jdis020_Dim095
+64_Jdis020_Dim100
+64_Jdis040_Dim000
+64_Jdis040_Dim005
+64_Jdis040_Dim010
+64_Jdis040_Dim015
+64_Jdis040_Dim020
+64_Jdis040_Dim025
+64_Jdis040_Dim030
+64_Jdis040_Dim035
+64_Jdis040_Dim040
+64_Jdis040_Dim045
+64_Jdis040_Dim050
+64_Jdis040_Dim055
+64_Jdis040_Dim060
+64_Jdis040_Dim065
+64_Jdis040_Dim070
+64_Jdis040_Dim075
+64_Jdis040_Dim080
+64_Jdis040_Dim085
+64_Jdis040_Dim090
+64_Jdis040_Dim095
+64_Jdis040_Dim100
+64_Jdis060_Dim000
+64_Jdis060_Dim005
+64_Jdis060_Dim010
+64_Jdis060_Dim015
+64_Jdis060_Dim020
+64_Jdis060_Dim025
+64_Jdis060_Dim030
+64_Jdis060_Dim035
+64_Jdis060_Dim040
+64_Jdis060_Dim045
+64_Jdis060_Dim050
+64_Jdis060_Dim055
+64_Jdis060_Dim060
+64_Jdis060_Dim065
+64_Jdis060_Dim070
+64_Jdis060_Dim075
+64_Jdis060_Dim080
+64_Jdis060_Dim085
+64_Jdis060_Dim090
+64_Jdis060_Dim095
+64_Jdis060_Dim100
+64_Jdis080_Dim000
+64_Jdis080_Dim005
+64_Jdis080_Dim010
+64_Jdis080_Dim015
+64_Jdis080_Dim020
+64_Jdis080_Dim025
+64_Jdis080_Dim030
+64_Jdis080_Dim035
+64_Jdis080_Dim040
+64_Jdis080_Dim045
+64_Jdis080_Dim050
+64_Jdis080_Dim055
+64_Jdis080_Dim060
+64_Jdis080_Dim065
+64_Jdis080_Dim070
+64_Jdis080_Dim075
+64_Jdis080_Dim080
+64_Jdis080_Dim085
+64_Jdis080_Dim090
+64_Jdis080_Dim095
+64_Jdis080_Dim100
+64_Jdis100_Dim000
+64_Jdis100_Dim005
+64_Jdis100_Dim010
+64_Jdis100_Dim015
+64_Jdis100_Dim020
+64_Jdis100_Dim025
+64_Jdis100_Dim030
+64_Jdis100_Dim035
+64_Jdis100_Dim040
+64_Jdis100_Dim045
+64_Jdis100_Dim050
+64_Jdis100_Dim055
+64_Jdis100_Dim060
+64_Jdis100_Dim065
+64_Jdis100_Dim070
+64_Jdis100_Dim075
+64_Jdis100_Dim080
+64_Jdis100_Dim085
+64_Jdis100_Dim090
+64_Jdis100_Dim095
+64_Jdis100_Dim100
+64_Jdis150_Dim000
+64_Jdis150_Dim005
+64_Jdis150_Dim010
+64_Jdis150_Dim015
+64_Jdis150_Dim020
+64_Jdis150_Dim025
+64_Jdis150_Dim030
+64_Jdis150_Dim035
+64_Jdis150_Dim040
+64_Jdis150_Dim045
+64_Jdis150_Dim050
+64_Jdis150_Dim055
+64_Jdis150_Dim060
+64_Jdis150_Dim065
+64_Jdis150_Dim070
+64_Jdis150_Dim075
+64_Jdis150_Dim080
+64_Jdis150_Dim085
+64_Jdis150_Dim090
+64_Jdis150_Dim095
+64_Jdis150_Dim100
+64_Jdis200_Dim000
+64_Jdis200_Dim005
+64_Jdis200_Dim010
+64_Jdis200_Dim015
+64_Jdis200_Dim020
+64_Jdis200_Dim025
+64_Jdis200_Dim030
+64_Jdis200_Dim035
+64_Jdis200_Dim040
+64_Jdis200_Dim045
+64_Jdis200_Dim050
+64_Jdis200_Dim055
+64_Jdis200_Dim060
+64_Jdis200_Dim065
+64_Jdis200_Dim070
+64_Jdis200_Dim075
+64_Jdis200_Dim080
+64_Jdis200_Dim085
+64_Jdis200_Dim090
+64_Jdis200_Dim095
+Traceback (most recent call last):
+  File "Dimer-ZL_Metadata_Random.py", line 63, in <module>
+    df = pd.read_csv(myfile)
+  File "/home/liusf/anaconda3/lib/python3.8/site-packages/pandas/io/parsers.py", line 676, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/liusf/anaconda3/lib/python3.8/site-packages/pandas/io/parsers.py", line 448, in _read
+    parser = TextFileReader(fp_or_buf, **kwds)
+  File "/home/liusf/anaconda3/lib/python3.8/site-packages/pandas/io/parsers.py", line 880, in __init__
+    self._make_engine(self.engine)
+  File "/home/liusf/anaconda3/lib/python3.8/site-packages/pandas/io/parsers.py", line 1114, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/liusf/anaconda3/lib/python3.8/site-packages/pandas/io/parsers.py", line 1891, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 374, in pandas._libs.parsers.TextReader.__cinit__
+  File "pandas/_libs/parsers.pyx", line 674, in pandas._libs.parsers.TextReader._setup_parser_source
+FileNotFoundError: [Errno 2] File /home/liusf/tSDRG/MainDimZL/data2/PBC/Jdis200/Dim095/L64_P10_m30_417/ZL.csv does not exist: '/home/liusf/tSDRG/MainDimZL/data2/PBC/Jdis200/Dim095/L64_P10_m30_417/ZL.csv'
+
+done.
+
+
+Sun Jan 10 23:36:52 CST 2021
